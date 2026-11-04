@@ -16,8 +16,8 @@ to understand how custormer make payment across different months genders, and re
 -Are they difference in in payment behaviour across the region?
 -Which payment method is commonly used?
 # DATA UNDERSTANDING
-.Thedata was obtained from https://zindi.world/competitions/financial-stress-prediction-challenge
-.The dataset was obtained and imported into microsoft Excel for analysis
+-Thedata was obtained from https://zindi.world/competitions/financial-stress-prediction-challenge
+-The dataset was obtained and imported into microsoft Excel for analysis
 **Description of dataset**
 It contain the information used to examine custormer transaction and payment behaviour
 
@@ -60,6 +60,9 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
     -The pivot table were used Gender in the Row area and the Bank transfer in values area with the field value summarised using sum.
     - It was display in bar chart
       <img width="630" height="433" alt="image" src="https://github.com/user-attachments/assets/652515e1-8c75-46ad-b41a-2f837cfe9f7a" />
+      *Purpose*
+      -Compare bank transfer values between gender
+      -Identify which gender has the higest bank transfe
 
     **Region Versus Paybill**
 -This analysis compare Paybill transaction across different regions.
@@ -68,12 +71,55 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
 -The  region were sorted from highest to lowest total
 -It was display in chart
 <img width="622" height="438" alt="image" src="https://github.com/user-attachments/assets/f829d75e-ea41-403a-acb9-d3bdde8cad72" />
+*Purpose*
+- Compare the paybill transactions across Regions
+- Identify which Region has the highest value transaction
+- 
 **Age group Versus Deposit**
 -This analysis compare Deposit transaction across different Age group over six months.
 -The pivot were used  Age group in the Row area and the Deposits in values area with the field vallue summarised using sum.
 - Display in charts
   
 <img width="627" height="487" alt="image" src="https://github.com/user-attachments/assets/79b2daa1-2bf1-4760-b5cc-113cdd8d6057" />
+- Compare Deposit transaction across Age group
+- Identify which age group has highest value of transaction
+  # EVALUATION 
+  Evaluation involves reviewing the results obtained from the analysis to determine whether the project objectives and business questions have been adress
+  The charts and Pivot tables were examine to identify pattern in deposit,bank transfer,and paybill transactions
+  ## Key area of Evaluation
+  **Monthly Deposit Analysis**
+  Compare the deposit between gender from M1 to M6 identify the monthly changes and difference
+  **Bank Transfer Analysis**
+  Examine bank transfer values to understand payment differences genders
+  **Regional Paybill Analysis**
+  Compare Paybill transaction across regions to identify difference in regional payment activity
+  **Gender Distribution**
+  Reviewd the gender distribution to understand the comparison of the customers.
+  **liduidty**
+  -Identify monthly changes in cash flow
+  -Compare deposit with widthrawals,if withdrawal are available
+  ## Findings
+  - Gender with the highest bank transfer was 166037091.2
+  - The Region with the Highest paybill transaction was 30291188.74
+ 
+    # DEPLOYMENT
+    Deployment involves presenting and sharing the results of the analysis so thta other people can understand the findings.The project documentatio,dataset,and visualisations are organised in a Github repository
+    **project tool**
+    -Zindi  The data source was obtain
+    - Microsoft Excel  Cleaning and analyzing data
+    - Git - track changes
+    - Github  store and share project
+      ## Conributors
+      Brenda Kimuge
+      
+   
+
+
+
+
+ 
+  
+  
 
 
  
