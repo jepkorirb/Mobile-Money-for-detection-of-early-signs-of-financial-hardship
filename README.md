@@ -80,7 +80,7 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
 <img width="627" height="487" alt="image" src="https://github.com/user-attachments/assets/79b2daa1-2bf1-4760-b5cc-113cdd8d6057" />
 - Compare Deposit transaction across Age group
 - Identify which age group has highest value of transaction
-  # EVALUATION 
+- # EVALUATION 
   Evaluation involves reviewing the results obtained from the analysis to determine whether the project objectives and business questions have been adress
   The charts and Pivot tables were examine to identify pattern in deposit,bank transfer,and paybill transactions
   ## Key area of Evaluation
