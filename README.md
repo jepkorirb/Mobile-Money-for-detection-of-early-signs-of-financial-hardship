@@ -60,9 +60,8 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
     -The pivot table were used Gender in the Row area and the Bank transfer in values area with the field value summarised using sum.
     - It was display in bar chart
       <img width="630" height="433" alt="image" src="https://github.com/user-attachments/assets/652515e1-8c75-46ad-b41a-2f837cfe9f7a" />
-      *Purpose*
-      -Compare bank transfer values between gender
-      -Identify which gender has the higest bank transfe
+
+  
 
     **Region Versus Paybill**
 -This analysis compare Paybill transaction across different regions.
@@ -71,9 +70,7 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
 -The  region were sorted from highest to lowest total
 -It was display in chart
 <img width="622" height="438" alt="image" src="https://github.com/user-attachments/assets/f829d75e-ea41-403a-acb9-d3bdde8cad72" />
-*Purpose*
-- Compare the paybill transactions across Regions
-- Identify which Region has the highest value transaction
+
 - 
 **Age group Versus Deposit**
 -This analysis compare Deposit transaction across different Age group over six months.
