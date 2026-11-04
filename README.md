@@ -38,6 +38,48 @@ Data preparation involves cleaning,organising,and formating the dataset to make 
 Microsoft Excel were used to prepare Mobile Money for eary detection for financial hardship       
 ## Datacleaning
 **check misising values**
+- blank cells were identify using filters
+- Numeric blanks transaction field were treated as zero only where blanks represent no record transaction ;otherwise ,they left blank and excluded from averages.
+**Remove Duplicates**
+ - Duplicate recors were identify using Excel Data> Remove duplicate feature.
+ - The duplicate_removal cirteria were based on the field that uniquely identify a custormer transactions where a unique customer or transactions ID was available it was used as primary creterion
+   **Correcting Column Names**
+  - Ensure thta column heading were clear and understandable
+  - Heading were starndardise by removing unnecessary spaces,correcting spellingsand using consistent names such as Gender,Region,Deposit,Bank transfer,Paybill,M1,M2,M3,M4,M5,M6.
+    **Formating Data**
+    -Applied appropriate formating to make the dataset easier to read and analyse.
+    -The data was converted into Excel table
+    -Filters enable headers
+    **Organising Monthly Data**
+    Arrange monthly informations from M1 to M6 for easier comparison
+    # MODELING
+    Involves applying analytical technique to discover pattern and relationship in the dataset.Microsoft excel were used  to perform the analysis through formulas,pivot tables,and charts.
+    **Analysis Performed**
+    **Gender Versus Bank transfer(M1-M6)**
+    -This analysis compare Bank transfer made by different gender by six months.
+    -The pivot table were used Gender in the Row area and the Bank transfer in values area with the field value summarised using sum.
+    - It was display in bar chart
+      <img width="630" height="433" alt="image" src="https://github.com/user-attachments/assets/652515e1-8c75-46ad-b41a-2f837cfe9f7a" />
+
+    **Region Versus Paybill**
+-This analysis compare Paybill transaction across different regions.
+-The pivot used region in the Row area and Paybill in the values.
+-The sum were used to summarise.
+-The  region were sorted from highest to lowest total
+-It was display in chart
+<img width="622" height="438" alt="image" src="https://github.com/user-attachments/assets/f829d75e-ea41-403a-acb9-d3bdde8cad72" />
+**Age group Versus Deposit**
+-This analysis compare Deposit transaction across different Age group over six months.
+-The pivot were used  Age group in the Row area and the Deposits in values area with the field vallue summarised using sum.
+- Display in charts
+  
+<img width="627" height="487" alt="image" src="https://github.com/user-attachments/assets/79b2daa1-2bf1-4760-b5cc-113cdd8d6057" />
+
+
+ 
+    
+    
+    
 
 
 
