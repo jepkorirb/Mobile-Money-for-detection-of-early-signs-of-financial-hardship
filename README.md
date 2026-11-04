@@ -85,13 +85,13 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
   ## Key area of Evaluation
  
  **Monthly Deposit Analysis**
-  Compare the deposit between gender from M1 to M6 identify the monthly changes and difference
+ - Compare the deposit between gender from M1 to M6 identify the monthly changes and difference
   **Bank Transfer Analysis**
-  Examine bank transfer values to understand payment differences genders
+  -Examine bank transfer values to understand payment differences genders
   **Regional Paybill Analysis**
-  Compare Paybill transaction across regions to identify difference in regional payment activity
+ - Compare Paybill transaction across regions to identify difference in regional payment activity
   **Gender Distribution**
-  Reviewd the gender distribution to understand the comparison of the customers.
+  -Reviewd the gender distribution to understand the comparison of the customers.
   **liduidty**
   -Identify monthly changes in cash flow
   -Compare deposit with widthrawals,if withdrawal are available
