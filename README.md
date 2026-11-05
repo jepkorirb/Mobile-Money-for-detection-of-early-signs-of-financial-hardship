@@ -16,9 +16,9 @@ to understand how custormer make payment across different months genders, and re
 -Are they difference in in payment behaviour across the region?
 -Which payment method is commonly used?
 # DATA UNDERSTANDING
--Thedata was obtained from https://zindi.world/competitions/financial-stress-prediction-challenge
--The dataset was obtained and imported into microsoft Excel for analysis
-**Description of dataset**
+- Thedata was obtained from https://zindi.world/competitions/financial-stress-prediction-challenge
+- The dataset was obtained and imported into microsoft Excel for analysis
+## Description of dataset
 It contain the information used to examine custormer transaction and payment behaviour
 
 Variable           Description
@@ -90,11 +90,17 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
   -Examine bank transfer values to understand payment differences genders
   ## Regional Paybill Analysis
  - Compare Paybill transaction across regions to identify difference in regional payment activity
+ - Identify which Regin with the highest Paybill value
+ - Identify the Region with the  lowest paybil transaction
+ - 
 ## Gender Distribution
   -Reviewd the gender distribution to understand the comparison of the customers.
+  - Whether the distribution was balance or uneven
+  - The Number of customer in each gender category
   ## liduidty
   -Identify monthly changes in cash flow
   -Compare deposit with widthrawals,if withdrawal are available
+  
   ## Findings
   - Gender with the highest bank transfer was 166037091.2
   - The Region with the Highest paybill transaction was 30291188.74
