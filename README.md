@@ -63,7 +63,7 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
 
   
 
-    **Region Versus Paybill**
+    ## Region Versus Paybill
 -This analysis compare Paybill transaction across different regions.
 -The pivot used region in the Row area and Paybill in the values.
 -The sum were used to summarise.
@@ -71,8 +71,8 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
 -It was display in chart
 <img width="622" height="438" alt="image" src="https://github.com/user-attachments/assets/f829d75e-ea41-403a-acb9-d3bdde8cad72" />
 
-- 
-**Age group Versus Deposit**
+
+  ## Age group Versus Deposit
 -This analysis compare Deposit transaction across different Age group over six months.
 -The pivot were used  Age group in the Row area and the Deposits in values area with the field vallue summarised using sum.
 - Display in charts
