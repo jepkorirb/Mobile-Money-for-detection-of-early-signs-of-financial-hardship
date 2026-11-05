@@ -37,20 +37,20 @@ Variable           Description
 Data preparation involves cleaning,organising,and formating the dataset to make suitable for analsis
 Microsoft Excel were used to prepare Mobile Money for eary detection for financial hardship       
 ## Datacleaning
-**check misising values**
+## check misising values
 - blank cells were identify using filters
 - Numeric blanks transaction field were treated as zero only where blanks represent no record transaction ;otherwise ,they left blank and excluded from averages.
-**Remove Duplicates**
+## Remove Duplicates
  - Duplicate recors were identify using Excel Data> Remove duplicate feature.
  - The duplicate_removal cirteria were based on the field that uniquely identify a custormer transactions where a unique customer or transactions ID was available it was used as primary creterion
-   **Correcting Column Names**
+   ## Correcting Column Names
   - Ensure thta column heading were clear and understandable
   - Heading were starndardise by removing unnecessary spaces,correcting spellingsand using consistent names such as Gender,Region,Deposit,Bank transfer,Paybill,M1,M2,M3,M4,M5,M6.
-    **Formating Data**
+    ## Formating Data
     -Applied appropriate formating to make the dataset easier to read and analyse.
     -The data was converted into Excel table
     -Filters enable headers
-    **Organising Monthly Data**
+    ## Organising Monthly Data
     Arrange monthly informations from M1 to M6 for easier comparison
     # MODELING
     Involves applying analytical technique to discover pattern and relationship in the dataset.Microsoft excel were used  to perform the analysis through formulas,pivot tables,and charts.
@@ -84,15 +84,15 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
   The charts and Pivot tables were examine to identify pattern in deposit,bank transfer,and paybill transactions
   ## Key area of Evaluation
  
- **Monthly Deposit Analysis**
+ ## Monthly Deposit Analysis
  - Compare the deposit between gender from M1 to M6 identify the monthly changes and difference
-  **Bank Transfer Analysis**
+## Bank Transfer Analysis
   -Examine bank transfer values to understand payment differences genders
-  **Regional Paybill Analysis**
+  ## Regional Paybill Analysis
  - Compare Paybill transaction across regions to identify difference in regional payment activity
-  **Gender Distribution**
+## Gender Distribution
   -Reviewd the gender distribution to understand the comparison of the customers.
-  **liduidty**
+  ## liduidty
   -Identify monthly changes in cash flow
   -Compare deposit with widthrawals,if withdrawal are available
   ## Findings
@@ -101,12 +101,12 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
  
     # DEPLOYMENT
     Deployment involves presenting and sharing the results of the analysis so that other people can understand the findings.The project documentatio,dataset,and visualisations are organised in a Github repository
-    **project tool**
+## project tool
     -Zindi  The data source was obtain
     - Microsoft Excel  Cleaning and analyzing data
     - Git - track changes
     - Github  store and share project
-      ## Conributors
+ ## Contributor
       Brenda Kimuge
       
    
