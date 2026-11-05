@@ -55,7 +55,7 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
     # MODELING
     Involves applying analytical technique to discover pattern and relationship in the dataset.Microsoft excel were used  to perform the analysis through formulas,pivot tables,and charts.
     ## Analysis Performed
-    **Gender Versus Bank transfer(M1-M6)**
+    ## Gender Versus Bank transfer(M1-M6)
     -This analysis compare Bank transfer made by different gender by six months.
     -The pivot table were used Gender in the Row area and the Bank transfer in values area with the field value summarised using sum.
     - It was display in bar chart
@@ -100,7 +100,7 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
   - The Region with the Highest paybill transaction was 30291188.74
  
     # DEPLOYMENT
-    Deployment involves presenting and sharing the results of the analysis so thta other people can understand the findings.The project documentatio,dataset,and visualisations are organised in a Github repository
+    Deployment involves presenting and sharing the results of the analysis so that other people can understand the findings.The project documentatio,dataset,and visualisations are organised in a Github repository
     **project tool**
     -Zindi  The data source was obtain
     - Microsoft Excel  Cleaning and analyzing data
