@@ -106,12 +106,13 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
   - The Region with the Highest paybill transaction was 30291188.74
  
     # DEPLOYMENT
-    Deployment involves presenting and sharing the results of the analysis so that other people can understand the findings.The project documentatio,dataset,and visualisations are organised in a Github repository
+    Deployment involves presenting and sharing the results of the analysis so that other people can understand the findings.The project documentation,dataset,and visualisations are organised in a Github repository.The Project was analyse using Microsot excel.After complection  data cleaning ,preparation,Modelling,and Evaluation.The main purpose is to make Project findings understandable,accessible, and useful to other peolple who may want to review the analysis.Git and Gihub used to manage Project files,track changes and store the project documentation.
 ## project tool
     -Zindi  The data source was obtain
     - Microsoft Excel  Cleaning and analyzing data
     - Git - track changes
     - Github  store and share project
+    
  ## Contributor
       Brenda Kimuge
       
