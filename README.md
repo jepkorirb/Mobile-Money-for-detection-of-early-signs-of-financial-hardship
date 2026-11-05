@@ -54,7 +54,7 @@ Microsoft Excel were used to prepare Mobile Money for eary detection for financi
     Arrange monthly informations from M1 to M6 for easier comparison
     # MODELING
     Involves applying analytical technique to discover pattern and relationship in the dataset.Microsoft excel were used  to perform the analysis through formulas,pivot tables,and charts.
-    **Analysis Performed**
+    ## Analysis Performed
     **Gender Versus Bank transfer(M1-M6)**
     -This analysis compare Bank transfer made by different gender by six months.
     -The pivot table were used Gender in the Row area and the Bank transfer in values area with the field value summarised using sum.
